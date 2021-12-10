@@ -12,3 +12,7 @@
 -In css and html changed social-media-marketing class to search and for the img class
 -In css and html changed search-engine-optimization class to search and for the img class
 -Fixed search-engine-optimization link
+
+
+https://groyseth.github.io/Homework-Code-Refractor/
+link to deployed site
